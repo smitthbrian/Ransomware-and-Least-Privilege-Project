@@ -3,7 +3,7 @@
 **Course:** Ethical Hacking & Countermeasures  
 **Author:** Brian F. Smith  
 
-This project focuses on the critical concepts of ransomware defense and the Principle of Least Privilege (PoLP). It demonstrates how to secure file-sharing environments in Windows Server to reduce the spread of ransomware, using user account and group-based permission management.
+This project focuses on the critical concepts of ransomware defense and the Principle of Least Privilege (PoLP). It demonstrates how to secure file-sharing environments in Windows Server to reduce the spread of ransomware, using user account and group-based permission management. To see the work achieved in this project, browse the .pptx file attached to the main branch.
 
 ---
 
